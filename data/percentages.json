@@ -1,0 +1,15 @@
+{
+    
+    //cateogry //rate as decimal percent%
+    {"Electronics": 4.00},
+    {"Amazon MP3": 5.00},
+    {"Amazon Instant Video": 5.00},
+    {"Game Downloads": 4.00},
+    {"Gift Cards": 6.00},
+    {"Grocery": 4.00},
+    {"Video Game Console": 1.00},
+    {"Headphones": 6.00},
+    {"Industrial": 8.00},
+    {"MyHabbit": 8.00},
+    {"AmazonLocal": 6.00}
+}//end root object
