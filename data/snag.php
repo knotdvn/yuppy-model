@@ -17,9 +17,9 @@ use ApaiIO\ApaiIO;
 $conf = new GenericConfiguration();
 $conf
     ->setCountry('com')
-    ->setAccessKey('YOUR ACCESS KEY')
-    ->setSecretKey('YOUR SECRET KEY')
-    ->setAssociateTag('YOUR ASSOCIATE TAG');
+    ->setAccessKey(AWS_API_KEY)
+    ->setSecretKey(AWS_API_SECRET_KEY)
+    ->setAssociateTag(AWS_ASSOCIATE_TAG);
 
 $search = new Search();
 $search->setCategory('DVD');
