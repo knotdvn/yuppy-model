@@ -17,6 +17,7 @@ Product Data
 Snag makes requests to the amazon product DB
 it requires a php library 
 https://github.com/Exeu/apai-io
+install via http://exeu.github.io/apai-io/installation.html
 
 it references auth.php which is not committed as it contains security keys.
 
@@ -27,6 +28,10 @@ We care about categorical items so the SearchIndex paramater is particularly use
 
 They approved Search Index Categories are:
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/USSearchIndexParamForItemsearch.html
+
+We want the most popular items, so this page is particularly useful.
+
+http://docs.aws.amazon.com/AWSECommerceService/latest/DG/SortingbyPopularityPriceorCondition.html
 
 
 
