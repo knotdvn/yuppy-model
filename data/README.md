@@ -29,6 +29,9 @@ We care about categorical items so the SearchIndex paramater is particularly use
 They approved Search Index Categories are:
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/USSearchIndexParamForItemsearch.html
 
+Browse Nodes for item categories
+http://docs.aws.amazon.com/AWSECommerceService/latest/DG/BrowseNodeIDs.html
+
 We want the most popular items, so this page is particularly useful.
 
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/SortingbyPopularityPriceorCondition.html

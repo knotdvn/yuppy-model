@@ -22,11 +22,15 @@ $conf
     ->setAssociateTag(AWS_ASSOCIATE_TAG);
 
 $search = new Search();
-$search->setCategory('DVD');
-$search->setActor('Bruce Willis');
-$search->setKeywords('Die Hard');
+$search->setCategory('Electronics');
+$search->setSort('salesrank');
+$search->setBrowseNode(172282);
+$search->setResponseGroup(array('Large'));
+$search->setResponseTransformer('\ApaiIO\ResponseTransformer\XmlToDomDocument');
+
 
 $apaiIo = new ApaiIO($conf);
-$response = $apaiIo->runOperation($search);
+$response = simplexml_load_string($apaiIo->runOperation($search));
 
-var_dump($response);
+print_r($response);
+
