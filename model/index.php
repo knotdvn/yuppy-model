@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js">
+<html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,14 +23,15 @@
         <div class="ribbon">
         <div class="wrap">
 
-        <h1>Yuppy Data Model: A Report</h1>
-        <p>This is a data modeling report. Please click on a headline to expand that sections content.</p>
-
+        <h1 id="title">Yuppy Data Model: A Report</h1>
+        <h4 id="byline">-Deven Edward Pitcher : <a href="http://OhDeven.com">OhDeven.com</a></h4>
+        
         </div>
         </div>
 
         <div class="ribbon">
         <div class="wrap">
+        <p>This is a data modeling report. Please click on a headline to expand that sections content.</p>
 
         <div id="report">
 

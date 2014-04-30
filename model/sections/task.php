@@ -1,5 +1,5 @@
 <div class="report-section">
-                <h1>Definition of Task:</h1>
+                <h1>Tasks and Goals</h1>
                     <section>
                         <p>Template Content</p>
 

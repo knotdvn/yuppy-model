@@ -6,7 +6,7 @@
 
 
 
-                        <pre><code data-language="php">//for src-ing and hrefing
+<pre><code data-language="php">//for src-ing and hrefing
 function d(){
 	global $static2;
 	if($static2==false){

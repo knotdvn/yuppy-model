@@ -23,4 +23,12 @@ $( document ).ready(function() {
   });//end minimizer click
 
 
+
+  //2
+
+  //do we have code? color it
+  Rainbow.color();
+
+
+
 });//end doc ready

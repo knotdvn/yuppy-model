@@ -25,6 +25,15 @@ body{
   border-radius: 20px;
 }
 
+#title{
+  margin: 0px;
+}
+
+#byline{
+  margin-top:0px;
+  padding-bottom:20px;
+}
+
 .report-section{
   overflow-y:auto;
 }
