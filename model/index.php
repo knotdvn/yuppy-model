@@ -32,64 +32,9 @@
         <div class="wrap">
 
         <div id="report">
-            <div class="report-section">
-                <h1>Definition of Task:</h1>
-                    <section>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
 
-                        <p class="minimizer">
-                            <span>MINIMIZE</span>
-                        </p>
-                    </section>
-            </div>
-
-            <div class="report-section">
-                <h1>Definition of Task:</h1>
-                    <section>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        <p>DATA DATA DATA DATA<br><br><br>DATA DATA DATA</p>
-                        
-                        <p class="minimizer">
-                            <span>MINIMIZE</span>
-                        </p>
-                    </section>
-            </div>
-            
-
-
+            <?php include("sections/author.php"); ?>
+            <?php include("sections/task.php"); ?>
 
 
         </div><!--report-->

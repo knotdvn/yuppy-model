@@ -44,13 +44,25 @@ body{
   -moz-transition: max-height 2s;
   transition: max-height 2s;
 } 
+
+.report-section section.open < h1{
+  border-bottom:4px solid rgb(93,123,222);;
+}
 .minimizer{
   position:relative;
   cursor:pointer;
   background: rgb(93,123,222); /* The Fallback */
-   background: rgba(93,123,222, 0.5); 
+  background: rgba(93,123,222, 0.5); 
    margin-top:20px;
    margin-bottom:0px;
+   -webkit-transition: background .5s;
+  -moz-transition: background .5s;
+  transition: background .5s;
+
+}
+
+.minimizer:hover{
+   background: rgba(93,123,222, 1); 
 }
 .minimizer span{
   margin:0 auto;
