@@ -1,0 +1,88 @@
+body *{
+  font-family: 'Raleway', sans-serif;
+}
+body{
+  background:url("wood1.jpg");
+}
+
+.wrap{
+  background:url("pape.png");
+}
+
+.ribbon{
+  width:100%;
+  display:block;
+  position:relative;
+  float:left;
+  clear:both;
+  padding:2% 0px;
+}
+.wrap{
+  width:1200px;
+  margin:0 auto;
+  padding: 20px 2%;
+  padding-bottom:0px;
+  border-radius: 20px;
+}
+
+.report-section{
+  overflow-y:auto;
+}
+
+.report-section h1{
+  cursor:pointer;
+}
+
+.report-section section{
+  max-height:0px;
+  overflow:hidden;
+}
+
+.report-section section.open{
+  max-height:10000px;
+  -webkit-transition: max-height 2s;
+  -moz-transition: max-height 2s;
+  transition: max-height 2s;
+} 
+.minimizer{
+  position:relative;
+  cursor:pointer;
+  background: rgb(93,123,222); /* The Fallback */
+   background: rgba(93,123,222, 0.5); 
+   margin-top:20px;
+   margin-bottom:0px;
+}
+.minimizer span{
+  margin:0 auto;
+  display:table;
+  font-size:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1200px){
+  .wrap{
+    width:92%;
+    margin:0px 2%;
+    padding: 20px 2%;
+  }
+} 
+
