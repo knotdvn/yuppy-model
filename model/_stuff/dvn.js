@@ -1,6 +1,11 @@
 //Front End Functionality for yuppy data report
 $( document ).ready(function() {
 
+  //ready flow 
+  //1add click handlers
+  //color code
+  //chart time
+
   //expand close on title click
   $('#report .report-section h1').on('click', function(){
     var target = $(this).next();
