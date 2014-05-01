@@ -50,4 +50,6 @@ function percentagePayouts () {
       data: [4.00, 5.00, 5.00, 4.00, 6.00, 4.00, 1.00, 6.00, 8.00, 8.00, 6.00]
     }]
   });
+
+
 };//end function percentage Payouts 
