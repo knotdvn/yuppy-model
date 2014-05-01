@@ -2,8 +2,7 @@
                 <h1>Methods and Design</h1>
                     <section>
                         <p>Template Content</p>
-
-
+//define data sources
 
 
 <pre><code data-language="php">//for src-ing and hrefing

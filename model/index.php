@@ -40,7 +40,7 @@
             <?php include("sections/context.php"); ?>
             <?php include("sections/methods.php"); ?>
             <?php include("sections/modeling.php"); ?>
-            <?php include("sections/conclusionsphp"); ?>
+            <?php include("sections/conclusions.php"); ?>
 
 
         </div><!--report-->
@@ -77,6 +77,7 @@
         <script>window.jQuery || document.write('<script src="_stuff/jq.1.11.min.js"><\/script>')</script>
         <script src="_stuff/rainbow.js"></script>
         <script src="_stuff/dvn.js"></script>
+        <script src="_stuff/charts/highcharts.js"></script>
 
 
         <script>
