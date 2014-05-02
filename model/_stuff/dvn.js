@@ -1,3 +1,30 @@
+//public scope functions
+//Ajax Request function
+  function ajaxRequest(url){
+    var ajaxJson = new XMLHttpRequest();
+    ajaxJson.open("GET", url, true);
+    ajaxJson.setRequestHeader("Content-type", "application/json");
+
+    //return function handler
+    ajaxJson.onreadystatechange = function(){
+      if(ajaxJson.readyState ==4 && ajaxJson.status == 200){
+        var response = JSON.parse( ajaxJson.responseText);
+        return response;
+      }//end if success
+    }//end response function
+    //we define the response function
+    //then we execute the request
+    //prevents race condition
+    ajaxJson.send();
+  }//end function ajax request
+
+
+
+
+
+
+
+
 //Front End Functionality for yuppy data report
 $( document ).ready(function() {
 
@@ -29,6 +56,9 @@ $( document ).ready(function() {
   //do we have code? color it
   Rainbow.color();
 
+  
+
 
 
 });//end doc ready
+

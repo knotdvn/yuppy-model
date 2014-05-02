@@ -1,14 +1,14 @@
 
 function analyticsChart () {
 
-    //calculate 12 random users
+    //calculate 12 months random users
     //calculate 12 levels of customers
     var startNum = Math.floor( Math.random()  * 5000) + 5000;
     var visitors = new Array(12);
     var customers = new Array();
     var magicX = .5;
     visitors[0] = startNum;
-    customers[0] = visitors[0] * magicX;
+    customers[0] = Math.floor(visitors[0] * magicX);
     for(var i = 1; i < 12; i++){
         
         if(Math.random() > .5){
@@ -16,10 +16,9 @@ function analyticsChart () {
         }else{
             visitors[i] = visitors[i-1] - Math.floor( Math.random() * 200 );
         }//end if up or down
-        customers[i] = visitors[i] * magicX;
+        customers[i] = Math.floor(visitors[i] * magicX);
     }//end for 12 months
-    console.log(visitors);
-    console.log(customers);
+    
         $('#analytics_chart').highcharts({
             chart: {
               type: 'line',

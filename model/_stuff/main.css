@@ -79,6 +79,12 @@ body{
   font-size:30px;
 }
 
+#user_input label{
+  display:block;
+  clear:both;
+
+}
+
 
 
 

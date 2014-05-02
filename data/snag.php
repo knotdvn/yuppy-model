@@ -69,14 +69,14 @@ foreach ($cats as $catName => $catID) {
 		
 	}//end for 10 items
 	//jsonify
-	$jsonData = json_encode($items);
+	$jsonData = "var " . $catName . " = " . json_encode($items);
 
 	//display data
 	echo "<br><br>" . $catName . "<br><br>";
 	echo($jsonData);
 
 	//write to files
-	$file = 'catdata/'. $catName. '.json';
+	$file = 'catdata2/'. $catName. '.js';
 	file_put_contents($file, $jsonData);
 
 }//end for each category

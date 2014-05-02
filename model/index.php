@@ -10,6 +10,15 @@
         <link rel="stylesheet" href="_stuff/normalize.css">
         <link rel="stylesheet" href="_stuff/main.css">
         <link rel="stylesheet" href="_stuff/zen.css">
+
+        <!-- Be lazy load data here-->
+        <!-- Data Files -->
+        <script src="_stuff/charts/catdata/Electronics.js" type="text/javascript"></script>
+        <script src="_stuff/charts/catdata/Grocery.js" type="text/javascript"></script>
+        <script src="_stuff/charts/catdata/Industrial.js" type="text/javascript"></script>
+        <script src="_stuff/charts/catdata/MP3Downloads.js" type="text/javascript"></script>
+        <script src="_stuff/charts/catdata/Video.js" type="text/javascript"></script>
+        <script src="_stuff/charts/catdata/VideoGames.js" type="text/javascript"></script>
         
     </head>
     <body>
