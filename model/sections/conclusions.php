@@ -3,6 +3,8 @@
                     <section>
                         <p>Template Content</p>
 
+
+popular products or products that "could be big sellers"
                         <p class="minimizer">
                             <span>MINIMIZE</span>
                         </p>

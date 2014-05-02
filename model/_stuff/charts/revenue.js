@@ -35,10 +35,11 @@ function revenueChart () {
         revenueSum = revenueSum /10;
 
       revenue[i] = +revenueSum.toFixed(2);
+      //we've calculated amazons revenue, lets calculate ours
       yuppyRevenue[i] = revenue[i] * rates[i];
             
     }//end for 6 categories
-    //we've calculated amazons revenue, lets calculate ours
+    
 
 
 
