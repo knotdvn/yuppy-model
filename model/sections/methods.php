@@ -8,7 +8,8 @@
 
                         <ul>
                         	<li>Visitors: Number of monthly users, data from site analytics is used</li>
-                        	<li>Customers: Number of users who click through and purchase something. This variable will be a percentage of data point [Visitors], adjusting this is the primary means of realizing profitability and increasing this percentage should be the major goal of a yuppy operator.</li>
+                        	<li>Customers: Number of users who click through and purchase something. This variable will be a percentage of data point [Visitors]</li>
+                        	<li>magicX, This is the rate at which [Visitors] become [Customers] adjusting this is the primary means of realizing profitability and increasing this percentage should be the major goal of a yuppy operator.</li>
                         	<li>Product Data: This is a list of the 10 most popular products from a variety Amazon categories. The name, price, and picture are important for this excercise.</li>
                         	<li>Payout Rate: A sales referral percentage paid back to Yuppy - Amazon has their rates listed <a target="new" href="https://affiliate-program.amazon.com/gp/associates/help/operating/advertisingfees" >at this address</a>. they vary depending on category. Comparing categorical differences could help Yuppy target a specific user-base to maximize profitability.</li>
                         </ul>

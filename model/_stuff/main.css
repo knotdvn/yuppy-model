@@ -1,3 +1,6 @@
+html{
+  font-size: 2em;
+}
 body *{
   font-family: 'Raleway', sans-serif;
 }
@@ -48,7 +51,7 @@ body{
 }
 
 .report-section section.open{
-  max-height:10000px;
+  max-height:100000px;
   -webkit-transition: max-height 2s;
   -moz-transition: max-height 2s;
   transition: max-height 2s;
@@ -79,6 +82,28 @@ body{
   font-size:30px;
 }
 
+
+
+
+
+
+
+.prod-item {
+    display:inline-block;
+    font-size: 1em;
+    height: auto;
+    min-width: 300px;
+    width: 30%;
+}
+
+.prod-item p{
+  font-size:12px;
+  padding: 5px;
+}
+
+.prod-items span{
+  font-size: 12px;
+}
 #user_input label{
   display:block;
   clear:both;

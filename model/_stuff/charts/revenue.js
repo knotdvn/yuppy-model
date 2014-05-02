@@ -32,7 +32,7 @@ function revenueChart () {
           var individual = +tenItems[rndProduct].price;
           revenueSum += individual;
         }//end for all users random product purchase
-        revenueSum = revenueSum /10;
+        revenueSum = revenueSum /100 //cents to dollars;
 
       revenue[i] = +revenueSum.toFixed(2);
       //we've calculated amazons revenue, lets calculate ours

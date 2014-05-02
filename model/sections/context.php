@@ -5,7 +5,7 @@
 
                         <p>The model and analysis proposed herein specifically targets the revenue potential and cost associated with owning and operating a website for the purpose of generating sales referrals. <strong>A site of this type is herby reffered to as "a yuppy" or "yuppy".</strong></p>
 
-                        <p>Any potential or current owner/operator of a website can plug in their own “Yuppy” into this models data points and help calculate and predict the profitability of their sales referral endeavor. Specifically the curator of “Yuppy” needs to decide which categories of products to target. Using the amount of traffic and level of interactivity of the sites user base, the site moderator will have to determine which sector of Amazon's payout chart will be most profitable.</p>
+                        <p>Any potential or current owner/operator of a website can plug in their own yuppy into this models data points and help calculate and predict the profitability of their sales referral endeavor. Specifically the curator of yuppy needs to decide which categories of products to target. Using the amount of traffic and level of interactivity of the sites user base, the site moderator will have to determine which sector of Amazon's payout chart will be most profitable.</p>
 
                         <p>E-commerce sites, especially sales referal or "drop ship" sites are particularly interesting because they require no physical action on the part of the site operator. Inventory, infrastructure, shipping, and customer service is all handled by the actual retailer.</p>
 

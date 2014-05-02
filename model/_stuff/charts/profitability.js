@@ -54,7 +54,7 @@ function profitabilityChart (visitorNum, magicX, siteCost) {
           var individual = +tenItems[rndProduct].price;
           revenueSum += individual;
         }//end for all users random product purchase
-        revenueSum = revenueSum /10;
+        revenueSum = revenueSum /100;
 
       revenue[i] = +revenueSum.toFixed(2);
       yuppyRevenue[i] = revenue[i] * rates[i];
