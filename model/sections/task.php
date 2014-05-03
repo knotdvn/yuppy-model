@@ -1,9 +1,7 @@
 <div class="report-section">
                 <h1>Tasks and Goals</h1>
                     <section>
-                    	<p>The inception of this undertaking involves <a href="http://syr.edu">Syracuse University</a>,
-                    	 specifically the <a href="http://ischool.syr.edu">School of Information Studies ( iSchool )</a>
-                    	 and the course: <strong>IST 754 Telecommunications and Network Management Capstone</strong>, taught by <a href="http://my.ischool.syr.edu/Profiles/Preview/mlmuelle">Dr. Milton Mueller</a>.</p>
+                    	<p>The inception of this undertaking involves <strong>IST 754 Telecommunications and Network Management Capstone</strong>, taught by <a href="http://my.ischool.syr.edu/Profiles/Preview/mlmuelle">Dr. Milton Mueller</a>.</p>
 
                         <p>This capstone serves as the keystone in the bridge connecting academic coursework with the ability to execute professional work of value and merit.</p>
 
