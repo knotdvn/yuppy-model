@@ -34,6 +34,7 @@
 
         <h1 id="title">Yuppy Data Model: A Report</h1>
         <h4 id="byline">-Deven Edward Pitcher : <a href="http://OhDeven.com">OhDeven.com</a></h4>
+        <p>This web-enhanced report aims to cultivate a semesters worth of thought and work into an informative and interesting narrative. Follow along as we formulate our problem, acquire our data, construct our model, and provide analysis into the intriguing world of e-commerce referral sales. With a few known analytics it is possible to identify a potentially profitable drop ship website. Let's begin:</p>
         
         </div>
         </div>

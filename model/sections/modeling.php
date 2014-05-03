@@ -24,7 +24,7 @@
 
                     <h2>Analytics Data</h2>
                     <p>Google and a host of startups offer site and mobile app analytics data. I would guarantee that every for-profit site in existence employs user data collection. Intelligence agencies, governments, and university IT administrators are all desperately gather as much user analytics as possible over the web. Needless to say, it's quite valuable.</p>
-                    <p>In today's Internet economy, visitors to a website equal revenue potential. Advertising payout rates are based on numbers of faces and facetime spent eye crawling. Accusations of click fraud and botnet inflated analytics data are <a href="http://www.nasdaq.com/article/facebook-click-fraud-and-advertising-on-the-internet-cm162714">quite common</a>.</p>
+                    <p>In today's Internet economy, visitors to a website equal revenue potential. Advertising payout rates are based on numbers of faces and facetime spent eye crawling. Accusations of click fraud and botnet inflated analytics data are <a target="new" href="http://www.nasdaq.com/article/facebook-click-fraud-and-advertising-on-the-internet-cm162714">quite common</a>.</p>
                     <p>Yuppy has strength in the fact that it only recievs revenue from actual purchases. "Pay Per Click" is a rather meaningless statistic and yuppy completely ignores it in its business model.</p>
                     <p>Click the [Draw Chart] button below to generate some randomized yuppy analytics.</p>
 
