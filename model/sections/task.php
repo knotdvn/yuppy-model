@@ -7,11 +7,11 @@
 
                         <p>The semester included instruction in the concepts and practices of analytical data modeling. The focus centered on an individual research project in the field of Information Technology, Networking, or Telecommunications.</p>
 
-                        <p>Categorically projects were expected to encapsulate Business Plan Modeling, Enterprise-level Design and Cost Modeling, or Public Policy Modeling.</p>
+                        <p>Categorically, projects were expected to encapsulate Business Plan Modeling, Enterprise-level Design and Cost Modeling, or Public Policy Modeling.</p>
 
-                        <p>After formulating a significant and valid problem the task required extensive data acquisition, constructing algorithms to model salient relationships between data points, and generating thoughtful and useful analysis. With these tasks complete a final report was to be created which would organize the work put forward, and provide outside parties with access to findings in an easily consumable format.</p>
+                        <p>After formulating a significant and valid problem, the task required extensive data acquisition, constructing algorithms to model salient relationships between data points, and generating thoughtful and useful analysis. With these tasks complete, a final report was to be created which would organize the work put forward, and provide outside parties with access to findings in an easily consumable format.</p>
 
-                        <p>I have taken, what I believe to be a unique approach in constructing this web report. Tt differs from the syllabus description rather significantly, as detailed here...</p>  
+                        <p>I have taken what I believe to be a unique approach in constructing this web report. It differs from the syllabus description rather significantly, as detailed here...</p>  
 
                         <p><strong>Stage 5: Final paper</strong><br>
 							Usually, it is around 40 pages of text, and includes an Excel spreadsheet Model as a separate file.The title page should be clear and include the following items: name of the project;“Final Project in Telecommunications Systems,”your name
@@ -19,9 +19,9 @@ and email; date. An abstract of 300-600 words should summarize the work performe
 end of your paper in alphabetical order by surname of author. When referenced in the text, enclose the citation number in square brackets, for example, [1].</p>
 
 						<h2>My Goals</h2>
-						<p>My true aim and intentions for this course differ from that of the professors expectation. I am no longer ine the Telecommunications and Network Management program, using the capstone instead to substitute for coursework in another program. I am actively trying to manipulate the curriculums available to me to craft an academic experience that will best serve my personal goals. The world of technology is ever transforming and currently possess unparralled posibility for creativty and inventiveness. The role I wish to play in this world is difficult to define primarially because much of its environment and context is still undiscovered. I am preparing myself for the unknown. Some new breed of technical, entrepenuerial, analyst, evangelist. Titles and job descriptions evaporate and rain down again no more real than the fog we pass through.</p>
+						<p>My true aim and intentions for this course differ from that of the professor's expectation. I am no longer in the Telecommunications and Network Management program, and am using the capstone instead to substitute for coursework in another program. I am actively trying to manipulate the curriculums available to me to craft an academic experience that will best serve my personal goals. The world of technology is ever transforming and currently possesses unparralled posibility for creativity and inventiveness. The role I wish to play in this world is difficult to define primarialy because much of its environment and context is still undiscovered. I am preparing myself for the unknown. Some new breed of technical, entrepenuerial, analyst, evangelist. Titles and job descriptions evaporate and rain down again no more real than the fog we pass through.</p>
 
-						<p>It is with these motivations that I have decided to engage in my endeavors in a unique way. Dr. Mueller and I agreeing that "results will have to speak for themselves".</p>
+						<p>It is with these motivations that I have decided to engage in my endeavors in a unique way. Dr. Mueller and I agree that "results will have to speak for themselves".</p>
 
 						<p>So my self assigned tasks are as follows. 
 						<ul>

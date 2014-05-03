@@ -8,9 +8,6 @@ body{
   background:url("wood1.jpg");
 }
 
-.wrap{
-  background:url("pape.png");
-}
 
 .ribbon{
   width:100%;
@@ -26,6 +23,7 @@ body{
   padding: 20px 2%;
   padding-bottom:0px;
   border-radius: 20px;
+  background:url("pape.png");
 }
 
 #title{
@@ -130,10 +128,10 @@ body{
 
 
 
-@media (max-width: 1200px){
+@media (max-width: 1240px){
   .wrap{
-    width:92%;
-    margin:0px 2%;
+    width:88%;
+    margin:0px 4%;
     padding: 20px 2%;
   }
 } 
