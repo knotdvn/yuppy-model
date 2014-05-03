@@ -13,7 +13,7 @@
                     <p>What good are payout rates without product data? The ten most popular items from each category were queried. For each item we have name, price, and an image.</p>
 
                     <div id="product_list"></div>
-                    <button onclick="listProducts()">Draw Items</button>
+                    <button od="prod_butt" onclick="listProducts()">Draw Items</button>
 
                     <h3>Analyze:</h3>
                     <p>The first thing that should jump out at any competent analyst is the prevalence of $0.00 priced items. Amazon's API did in fact return these items; it is not a fault in my code. Some items might be given away in promotions in conjuction with other products, while some free items are available especially in the digital goods market place.</p>

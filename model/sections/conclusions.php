@@ -18,6 +18,7 @@
                     	<h3>Iterate</h3>
                     	<p>If I were to start all over, what would I do differently? Another instance of the question being more important than the answer. Yet I'd likely try to model my other idea: calculating the profitability of reselling local Upstate NY farmers' market goods at a ridiculous upscale to wealthier markets. I think the podunks and hill folk of this area have some high quality merchandise that they part with for $2.50 a quart when NYC, Seoul, Coopenhagen, or London would pay $25.00 a pint. These goods need a website and some marketing; skills that Syracuse University students have in undervalued abundance.</p>
 
+                    	<p>End.</p>
 
                         
 

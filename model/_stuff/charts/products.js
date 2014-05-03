@@ -31,6 +31,6 @@ function listProducts () {
         }//end for all users random product purchase    
     }//end for 6 categories
     
-
+$('#prod_butt').hide();
 
 };//end function listProducts

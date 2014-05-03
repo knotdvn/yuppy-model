@@ -49,7 +49,7 @@ body{
 }
 
 .report-section section.open{
-  max-height:100000px;
+  max-height:1000000px;
   -webkit-transition: max-height 2s;
   -moz-transition: max-height 2s;
   transition: max-height 2s;
