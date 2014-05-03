@@ -26,4 +26,4 @@ The Plan:
 
 8. Present the website by the end of April [ - ] (unnecessary)
 
-9. Submit to the professor by May 2nd [ ]
+9. Submit to the professor by May 2nd [ X ] wooo
