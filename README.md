@@ -2,8 +2,7 @@ yuppy-model
 ===========
 
 A capstone course project in data modeling and analysis.
-
-
+http://ohdeven.com/yuppy-model/
 
 The Plan: 
 ==========
@@ -14,7 +13,7 @@ The Plan:
 
 3. Query for and obtain product data for most popular products in the various categories [ X ]
 
-4. Model profitability. Specifically calculate the number of "click through buys" necessary to earn enough money to pay for the cost of operating the site.  [ - ]
+4. Model profitability. Specifically calculate the number of "click through buys" necessary to earn enough money to pay for the cost of operating the site.  [ x ]
 
 4a. Cascading data modeling. Use of sliders, set number of site visitors, set percentage of visitors who click through buy, select a category or categories, set a proft point, will calculate any missing variables. [ X ]
 
